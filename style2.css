@@ -1,0 +1,20 @@
+.main {
+  background-color: white;
+  width: 400px;
+  height: 400px;
+  margin: 0 0 0 20px;
+  padding: 20px 20px;
+  border-top: 3px solid blue;
+}
+body {
+  background-color: greenyellow;
+}
+
+span {
+  color: red;
+}
+.text {
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: 200;
+}
